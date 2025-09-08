@@ -4,6 +4,7 @@ Remote
 
 
 Consisting of
+
 5 inch DSI Capacitive Touch Display, 720 × 1280, IPS, Optical Bonding Toughened Glass Panel, DSI Interface, 5-Point Touch, Aluminum Alloy Case
 https://www.waveshare.com/5-dsi-touch-a.htm
 
